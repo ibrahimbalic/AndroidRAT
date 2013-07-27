@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="org.apache.httpcomponents">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Desktop/org.apache.httpcomponents.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
